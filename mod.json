@@ -1,0 +1,15 @@
+{
+  "geode": "v5.6.0",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "yausaf.free-template-builder",
+  "name": "Free Template Builder",
+  "version": "v0.2.0",
+  "developer": "Yausaf",
+  "description": "Standalone offline template capture/apply tool for the Geometry Dash editor.",
+  "tags": ["editor", "utility", "offline"],
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  }
+}
